@@ -19,7 +19,7 @@
 > profesional en entorno militar, aeroespacial,
 > medico, industrial y IoT.
 
-## Redes Sociales
+## Contacto, Redes Sociales y Repositorio
 | Plataforma | URL |
 | ------ | ------ |
 | YouTube | https://www.youtube.com/electgpl |
